@@ -19,7 +19,7 @@ Demo project
         <!-- Ekhane nijer PDF link boshao -->
         <li class="pdf-item"><a href="pdfs/my_important_book.pdf" target="_blank">My Important Book</a></li>
         <li class="pdf-item"><a href="pdfs/mathematics_notes.pdf" target="_blank">Mathematics Notes</a></li>
-        <li class="pdf-item"><a href="https://drive.google.com/drive/folders/17BOJJ2JRR783SxiOWYl8VmJh8zrfNDWi" target="_blank">Physics Guide</a></li>
+        <li class="pdf-item"><a href="pdf.com" target="_blank">Physics Guide</a></li>
         <li class="pdf-item"><a href="pdfs/sample_paper.pdf" target="_blank">Sample Paper</a></li>
         <!-- Aro link add koro -->
     </ul>
